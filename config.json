@@ -1,0 +1,45 @@
+{
+  "sites": [
+    {
+      "key": "xiangcun_movie",
+      "name": "乡村电视2·电影",
+      "type": 1,
+      "api": "./xiangcun_movie.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "xiangcun_tv",
+      "name": "乡村电视2·电视剧",
+      "type": 1,
+      "api": "./xiangcun_tv.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "xiangcun_variety",
+      "name": "乡村电视2·综艺",
+      "type": 1,
+      "api": "./xiangcun_variety.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "xiangcun_anime",
+      "name": "乡村电视2·动漫",
+      "type": 1,
+      "api": "./xiangcun_anime.json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    }
+  ],
+  "parses": [],
+  "flags": [],
+  "lives": [],
+  "spider": "",
+  "wallpaper": ""
+}

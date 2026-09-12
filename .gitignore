@@ -1,0 +1,8 @@
+# 不传全量文件 (24MB 超 jsDelivr 20MB 上限)
+xiangcun_vod.json
+# 中间层脚本不需要进仓库
+cms_server.py
+decrypt.py
+# 运行产物
+__pycache__/
+*.log
